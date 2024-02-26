@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 2pc;
+    align-items: center;
+  }
+  .convertor {
+    padding: 3pc;
+    border-radius: 7px;
+    background-color: rgb(211, 140, 78);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: max-content;
+    align-items: center;
+    gap: 10px;
+  }
+  input {
+      display: flex;
+      
+    font-size: 15px;
+    font-weight: 700;
+    padding: 10px;
+  }
+  
